@@ -588,7 +588,7 @@
         }
       ]
     },
-    "page1.html": {
+    "sujebi.html": {
       "settings": {
         "title": "수제비TV",
         "meta_descr": "",
@@ -1094,7 +1094,7 @@
         }
       ]
     },
-    "page2.html": {
+    "first.html": {
       "settings": {
         "title": "기사퍼스트",
         "meta_descr": "",
@@ -1600,7 +1600,7 @@
         }
       ]
     },
-    "page3.html": {
+    "exstudy.html": {
       "settings": {
         "title": "두목넷익스터디",
         "meta_descr": "",
